@@ -18,7 +18,11 @@ This SQL project provides a comprehensive analysis of online music store sales d
 ## Questions
 
 > Questions based on easy, medium and advanced difficulty provided in questions pdf ⬆
+<br>
 
+## Datebase Schema Diagram
+
+![Project Banner](./assets/database_schema.png)
 
 
 ## Installation
@@ -31,6 +35,7 @@ To run this project locally, you'll need:
 ```bash
 git clone https://github.com/yourusername/music-store-analysis.git
 ```
+<br>
 
 ## Contributing
 
