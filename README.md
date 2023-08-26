@@ -22,7 +22,7 @@ This SQL project provides a comprehensive analysis of online music store sales d
 
 ## Datebase Schema Diagram
 
-![Project Banner](./assets/database_schema.png)
+![Schema Diagram](./assets/database_schema.png)
 
 
 ## Installation
