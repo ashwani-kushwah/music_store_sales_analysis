@@ -1,3 +1,6 @@
+--In depth Exploratory Data Analysii (EDA) of sales data using the following set of questions.
+
+
 --Question Set 1 - Easy
 
 --1. Who is the senior most employee based on job title?
