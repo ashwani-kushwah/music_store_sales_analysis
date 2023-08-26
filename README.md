@@ -1,7 +1,7 @@
 
 # SQL Project: Music Store Data Analysis [EDA]
 
-![Project Banner](./assets/music_banner.png)
+![Project Banner](./assets/musicBanner.png)
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ This SQL project provides a comprehensive analysis of online music store sales d
 
 ## Datebase Schema Diagram
 
-![Schema Diagram](./assets/database_schema.png)
+![Schema Diagram](./assets/databaseSchema.png)
 
 
 ## Installation
